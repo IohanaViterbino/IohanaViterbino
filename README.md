@@ -1,4 +1,4 @@
-Oi 👋 Meu npme é Iohana Maria
+Oi 👋 Meu nome é Iohana Maria
 ===============================
 
 ### Skills
