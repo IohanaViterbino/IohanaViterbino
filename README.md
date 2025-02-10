@@ -1,6 +1,6 @@
 # Olá, eu sou a Iohana! 👋
 
-Estudo atualmente no Senac, no curso de Desenvolvimento de sistema, tenho bastante interesse na área de tecnologia e estou aprendendo sobre python e IA generativa.
+Estudo atualmente no Senac, como bolsista no [Laboratório de Inovação](https://labs.rn.senac.br/), tenho bastante interesse na área de tecnologia e estou aprendendo sobre python e IA generativa.
 
 (づ_ど) eu tenho um péssimo senso de estética, mas estou em busca de aprimorar sobre esse assunto...
 
