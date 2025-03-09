@@ -1,6 +1,7 @@
 # Olá, eu sou a Iohana! 👋
 
 - 🖥️ Desenvolvedora FullStack no [Senac Labs](https://labs.rn.senac.br/) | ReactJS| Django REST | Docker.
+- 📘 Cursando Bacharelado de Tecnologia da Informação(BTI) na UFRN.
 - 🎓 Formada como Técnico em Desenvolvimento de Sistemas e Eletrônica.
 - 🖊️ Estudando Python, Javascript e Machine Learning.
 
