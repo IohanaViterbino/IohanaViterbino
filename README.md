@@ -1,11 +1,11 @@
-# Olá, eu sou a Iohana! 👋
+# Hello, I'm Iohana! 👋
 
-- 🖥️ Desenvolvedora FullStack no [Senac Labs](https://labs.rn.senac.br/) | ReactJS| Django REST | Docker.
-- 📘 Cursando Bacharelado de Tecnologia da Informação(BTI) na UFRN.
-- 🎓 Formada como Técnico em Desenvolvimento de Sistemas e Eletrônica.
-- 🖊️ Estudando Python, Javascript e Machine Learning.
+- 🖥️ FullStack Developer at [Senac Labs](https://labs.rn.senac.br/) | ReactJS | Django REST | NodeJS | Docker.
+- 📘 Currently pursuing a Bachelor's Degree in Information Technology at UFRN.
+- 🎓 Graduated as a Technician in Systems Development and Electronics.
+- 🖊️ Studying Python, JavaScript, and Machine Learning.
 
-### Conecte-se comigo
+### Connect with me
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-5b61a1?style=for-the-badge&logo=dio)](https://dio.me/users/iohana_ma31)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5b61a1)](https://www.linkedin.com/in/iohana-maria-63040a274/)
@@ -30,13 +30,12 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=838abd)
 
 ### My GitHub Stats
-
 ![Linguagens mais usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IohanaViterbino&layout=compact&theme=tokyonight)
 
-### Meus Principais Projetos no GitHub
+### My Main GitHub Projects
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IohanaViterbino&repo=myToDoAppJava&theme=tokyonight)]((https://github.com/IohanaViterbino/myToDoAppJava))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IohanaViterbino&repo=Biblioteca&theme=tokyonight)]((https://github.com/IohanaViterbino/Biblioteca))
 
-### Projetos de Eventos
+### Event Projects
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IohanaViterbino&repo=NLW-Pocket-Js&theme=tokyonight)]((https://github.com/IohanaViterbino/nlw-pocket-js))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IohanaViterbino&repo=store_api&theme=tokyonight)]((https://github.com/IohanaViterbino/store_api))
