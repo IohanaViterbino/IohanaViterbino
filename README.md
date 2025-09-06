@@ -1,6 +1,6 @@
 # Hello, I'm Iohana! 👋
 
-- 🖥️ FullStack Developer at [Senac Labs](https://labs.rn.senac.br/) | ReactJS | Django REST | NodeJS | Docker.
+- 🖥️ FullStack Developer at [Senac Labs](https://labs.rn.senac.br/) | React | Django REST | NodeJS | Docker.
 - 📘 Currently pursuing a Bachelor's Degree in Information Technology at UFRN.
 - 🎓 Graduated as a Technician in Systems Development and Electronics.
 - 🖊️ Studying Python, JavaScript, and Machine Learning.
