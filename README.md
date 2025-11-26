@@ -3,11 +3,11 @@
 - 🖥️ FullStack Developer at [Senac Labs](https://labs.rn.senac.br/) | React | Django REST | NodeJS | Docker.
 - 📘 Currently pursuing a Bachelor's Degree in Information Technology at UFRN.
 - 🎓 Graduated as a Technician in Systems Development and Electronics.
-- 🖊️ Studying Python, JavaScript, and Machine Learning.
+- 🖊️ Studying NestJS and Java.
 
 ### Connect with me
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-5b61a1?style=for-the-badge&logo=dio)](https://dio.me/users/iohana_ma31)
+[![DIO](https://img.shields.io/badge/DIO-5b61a1?style=for-the-badge&logo=dio)](https://dio.me/users/iohana_ma31)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5b61a1)](https://www.linkedin.com/in/iohana-maria-63040a274/)
 
 ### Hard Skils
