@@ -29,13 +29,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=838abd)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=838abd)
 
-### My GitHub Stats
-![Linguagens mais usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IohanaViterbino&layout=compact&theme=tokyonight)
 
-### My Main GitHub Projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IohanaViterbino&repo=myToDoAppJava&theme=tokyonight)]((https://github.com/IohanaViterbino/myToDoAppJava))
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IohanaViterbino&repo=Biblioteca&theme=tokyonight)]((https://github.com/IohanaViterbino/Biblioteca))
-
-### Event Projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IohanaViterbino&repo=NLW-Pocket-Js&theme=tokyonight)]((https://github.com/IohanaViterbino/nlw-pocket-js))
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IohanaViterbino&repo=store_api&theme=tokyonight)]((https://github.com/IohanaViterbino/store_api))
